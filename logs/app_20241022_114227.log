@@ -1,0 +1,15 @@
+2024-10-22 11:42:27,335 - CarCrashAnalysis - INFO - Starting Car Crash Analysis Application
+2024-10-22 11:42:39,704 - CarCrashAnalysis - INFO - Spark session created successfully
+2024-10-22 11:42:45,795 - CarCrashAnalysis - INFO - Data successfully read from source
+2024-10-22 11:42:51,682 - CarCrashAnalysis - INFO - Analytics Phase 1 completed successfully. Results written to Output Folder
+2024-10-22 11:42:53,736 - CarCrashAnalysis - INFO - Analytics Phase 2 completed successfully. Results written to Output Folder
+2024-10-22 11:42:56,469 - CarCrashAnalysis - INFO - Analytics Phase 3 completed successfully. Results written to Output Folder
+2024-10-22 11:42:58,737 - CarCrashAnalysis - INFO - Analytics Phase 4 completed successfully. Results written to Output Folder
+2024-10-22 11:43:00,879 - CarCrashAnalysis - INFO - Analytics Phase 5 completed successfully. Results written to Output Folder
+2024-10-22 11:43:03,479 - CarCrashAnalysis - INFO - Analytics Phase 6 completed successfully. Results written to Output Folder
+2024-10-22 11:43:06,444 - CarCrashAnalysis - INFO - Analytics Phase 7 completed successfully. Results written to Output Folder
+2024-10-22 11:43:09,393 - CarCrashAnalysis - INFO - Analytics Phase 8 completed successfully. Results written to Output Folder
+2024-10-22 11:43:11,605 - CarCrashAnalysis - INFO - Analytics Phase 9 completed successfully. Results written to Output Folder
+2024-10-22 11:43:16,631 - CarCrashAnalysis - INFO - Analytics Phase 10 completed successfully. Results written to Output Folder
+2024-10-22 11:43:16,631 - CarCrashAnalysis - INFO - Spark session stopped
+2024-10-22 11:43:16,631 - CarCrashAnalysis - INFO - Car Crash Analysis Application finished successfully
