@@ -1,4 +1,4 @@
-Case Study:
+## Case Study:
 
 Dataset:
 
